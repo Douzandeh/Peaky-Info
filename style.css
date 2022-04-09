@@ -1,0 +1,65 @@
+#head1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:  rgb(253, 252, 252);
+}
+
+
+.head{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px brown;
+    color:  rgb(253, 252, 252);
+    
+}
+
+
+#head2{
+    text-shadow: 1px 1px brown;
+}
+
+
+#div1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid cadetblue;
+
+    font-size: 130%;
+    box-shadow: 4px 4px chocolate;
+    color: white;
+    border-radius: 25px;
+    border-left: black;
+    border-style: groove;
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/24307886-high-res-peaky-blinders-vi-1647249093.jpg?crop=1xw:0.7501750700280112xh;center,top&resize=1200:*);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img{
+    margin-right: 15px;
+    float: right;
+}
+
+body{
+    background-image:url('https://wallpaper.dog/large/20495012.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#div3{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rosybrown;
+    border: 2px solid chocolate;
+    border-style: groove;
+    font-size: 130%;
+    border-radius: 25px;
+    box-shadow: 4px 4px chocolate;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKBht7BE8WgNAqGDs6l9M4JD3Empzwk9VJMa3uwQne1lJ7y7yToosyWxJi3_NNAPTfmo&usqp=CAU);
+    color: aliceblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#head3{
+    font-size: 200%;
+}
